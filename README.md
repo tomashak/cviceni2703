@@ -1,2 +1,2 @@
 # cviceni2703
-lorem ipsum
+lorem ipsum tohle chci ja
