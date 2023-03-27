@@ -1,2 +1,2 @@
 # cviceni2703
-lorem ipsum tohle chtel Pepa
+lorem ipsum tohle chtel Pepa i já
